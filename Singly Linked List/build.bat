@@ -1,0 +1,1 @@
+c++ *cpp -o tests
