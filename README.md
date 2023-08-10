@@ -1,2 +1,2 @@
 # Data-Structures Problem
-## Leetcode Problems 
+## Leetcode Problems inside DSA_problems with prper explanation 
